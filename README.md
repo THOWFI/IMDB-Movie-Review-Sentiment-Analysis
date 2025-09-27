@@ -1,6 +1,5 @@
 ---
 
-```markdown
 # 🎬 IMDB Movie Review Sentiment Analysis – Simple RNN  
 
 An **Artificial Neural Network (ANN)** project for **sentiment classification** of IMDB movie reviews.  
